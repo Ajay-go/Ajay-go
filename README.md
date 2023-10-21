@@ -1,8 +1,8 @@
-[![MasterHead](https://giphy.com/gifs/codeit-official-coding-programming-codeit-Y1vohJMVMtjSQxmUot)](https://Ajay-go.io)
+[![MasterHead](https:"https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif")](https://Ajay-go.io)
 
 <h1 align="center">Hi 👋, I'm Ajay Gour</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?q=Programmer+Animated+GIF&form=IRBPRS&first=1&cw=1473&ch=742">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-go&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-go" /> </p>
