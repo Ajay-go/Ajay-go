@@ -40,6 +40,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-go&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay-go&show_icons=true)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajay-go)
