@@ -14,7 +14,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning the **MERN Stack**
+- 🌱 I’m currently learning the **MERN Stack** and also Improving **problem solving skills**
 - 💬 Ask me about anything related to frontend development
 
 ## Connect with me:
@@ -35,6 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt "JavaScript" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" alt "React" width="40" height="40"/>
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-go&layout=compact)
