@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" alt="Ajay Gour" width="450" height="350">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" alt="Ajay Gour" width="700" height="450">
 </p>
 
 # Hi, I'm Ajay Gour! 👋
