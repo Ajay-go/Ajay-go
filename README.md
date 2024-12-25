@@ -3,7 +3,7 @@
 </p>
 
 # Hi, I'm Ajay Gour! 👋
-## A Passionate Frontend Developer from India
+## A Passionate AIML Engineer, Persuing Btech in Madhav institue of technology and science
 
 <p align="center">
   <a href="https://ajay-go.io" target="_blank">
