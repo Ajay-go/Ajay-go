@@ -3,7 +3,7 @@
 </p>
 
 # Hi, I'm Ajay Gour! 👋
-## A Passionate AIML Engineer, Persuing Btech in Madhav institue of technology and science
+## A Passionate AIML Engineer, Persuing Btech in Madhav institue of technology and science Gwl
 
 <p align="center">
   <a href="https://ajay-go.io" target="_blank">
@@ -14,8 +14,8 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning the **MERN Stack** and also Improving **problem solving skills**
-- 💬 Ask me about anything related to frontend development
+- 🌱 I’m currently deep diving into **Machine Learning,Deep Learning ** and also Improving **problem solving skills**
+- 💬 Ask me about anything related to Data Science,Machine Learning and AI
 
 ## Connect with me:
 <p align="center">
