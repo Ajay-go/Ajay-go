@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://ajay-go.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen" alt="Portfolio">
+    <img src="https://ajay-go.github.io/portfolio-ajay/" alt="Portfolio">
   </a>
   <a href="mailto:ajaygour3333@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red" alt="Email">
