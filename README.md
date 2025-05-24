@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Ajay Gour" width="700" height="450">
-</p>
+
 
 # Hi, I'm Ajay Gour! 👋
-## A Passionate AIML Engineer, Persuing Btech in Madhav institue of technology and science Gwl
+## A Passionate AIML Engineer,Frontend Web Developer, Persuing Btech in Madhav institue of technology and science Gwl
 
 <p align="center">
   <a href="https://ajay-go.github.io/portfolio-ajay/" target="_blank">
@@ -14,15 +12,16 @@
   </a>
 </p>
 
-- 🌱 I’m currently deep diving into **Machine Learning,Deep Learning ** and also Improving **problem solving skills**
-- 💬 Ask me about anything related to Data Science,Machine Learning and AI
+-🚀 Exploring the exciting worlds of AI, Machine Learning, and Deep Learning — building smarter systems that learn and adapt. At the same time, diving into Web Development to craft seamless, user-friendly digital experiences.
+  
+-💬 Curious about Data Science, Machine Learning, AI, or Web Development? Ask me anything! Whether it’s about algorithms, models, coding best practices, or building awesome web apps, I’m here to share insights and learn together. Let’s chat and grow in this exciting tech journey! 🚀🤖💻
 
 ## Connect with me:
 <p align="center">
   <a href="https://instagram.com/ajay_gour._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-blue" alt="Instagram">
   </a>
-  <a href="https://www.leetcode.com/ajaygour" target="_blank">
+  <a href="https://www.leetcode.com/Ajay_Gour3" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Compete-orange" alt="LeetCode">
   </a>
 </p>
