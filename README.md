@@ -1,5 +1,6 @@
 
 
+
 # Hi, I'm Ajay Gour! 👋
 ## A Passionate AIML Engineer,Frontend Web Developer, Persuing Btech in Madhav institue of technology and science Gwl
 
@@ -52,6 +53,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-go&layout=compact)
 
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Ajay-go)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajay-go)
